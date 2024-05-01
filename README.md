@@ -1,5 +1,5 @@
-<h3 align="center">Hello 👋</h3>
-<h3>-😏I’ve 16 years and i loved programming 
+<h3 align="center">Olá sou o Gabriel 👋</h3>
+<h3>Estudo programação</h3>
 <h2>-💻I’m currently learning Python</h2>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
