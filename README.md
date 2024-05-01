@@ -1,4 +1,4 @@
-<h3 align="center">Olá sou o Gabriel 👋</h3>
+<h1 align="center">Olá sou o Gabriel 👋</h1>
 <h2>-💻Estudo programação...</h2>
 <h3 align="center">Linguagens e Ferramentas que utilizo:</h3>
 <p align="center">
