@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou o Gabriel 👋</h1>
-<h2>-💻Estudante de programação</h2>
+<h2>-💻Programador Junior</h2>
 <h3 align="center">Linguagens e Ferramentas que utilizo:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
