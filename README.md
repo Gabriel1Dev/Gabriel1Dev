@@ -1,14 +1,9 @@
 <h1 align="center">Olá, sou o Gabriel 👋</h1>
 <h2>-💻Programador Junior</h2>
+<h3>Sou um estudante de programção que busca tornar suas habilidades de código sua profissão. Tenho ténico de informática e possuo conhecimento de algumas ferramentas em alta no mercado de trabalho. <a href="https://www.linkedin.com/in/gabriel-rodrigues-85ba05281/">Linkedln para mais informações</a></h3>
 <h3 align="center">Linguagens e Ferramentas que utilizo:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,c,cs,java,androidstudio,mysql,php,jquery&perline=4">
   </a>
 </p>
-
-## Redes Sociais:
-
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrieloliv07_/)
-
-![Gabriel1Dev](https://github-readme-stats.vercel.app/api?username=Gabriel1Dev&show_icons=true&theme=onedark)
