@@ -1,9 +1,20 @@
-<h1 align="center">Olá, sou o Gabriel 👋</h1>
-<h2>-💻Cursando Análise e Desenvolvimento de Sistemas na UNIP</h2>
-<h3>Sou um estudante de programação em busca de transformar suas habilidades em desenvolvimento de software em carreira profissional. Possuo formação técnica em informática e estou cursando ADS. <a href="https://www.linkedin.com/in/gabriel-rodrigues-85ba05281/">Linkedln para mais informações</a></h3>
-<h3 align="center">Linguagens e Ferramentas que utilizo:</h3>
+# Olá, eu sou o Gabriel! 👋
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas na UNIP**.
+
+💻 Tenho formação técnica em Informática e estou desenvolvendo minhas habilidades em programação e desenvolvimento de software, com o objetivo de ingressar profissionalmente na área de tecnologia.
+
+## 🛠️ Tecnologias e ferramentas
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,c,cs,java,androidstudio,mysql,php,jquery&perline=4">
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,c,cs,java,androidstudio,mysql,php,jquery&perline=7" alt="Tecnologias e ferramentas"/>
 </p>
+
+## 🔗 Contato
+
+- **LinkedIn:** [Gabriel Rodrigues](https://www.linkedin.com/in/gabriel-rodrigues-devjun/)
+- **GitHub:** [Gabriel1Dev](https://github.com/Gabriel1Dev)
+
+---
+
+Estou em constante aprendizado, buscando aprimorar meus conhecimentos e desenvolver projetos que contribuam para minha evolução como desenvolvedor.
